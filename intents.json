@@ -1,0 +1,10 @@
+{"intents":[
+    {"tag":"forward mail",
+     "patterns":["forward","internship","hiring!!","webinar","competition","student's circular","workshop","orientation","conference","hackathon"],
+     "responses":["Forwarding mail"]    
+},
+{"tag":"other files",
+ "patterns":[" "],
+ "responses":["checking other mails"]
+}
+]}
